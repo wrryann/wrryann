@@ -1,4 +1,5 @@
-## petition for no more cringe stuff on tghe portfolio here
+## web, front, back, game development, ui design and more
 
-i use rust, javascript (and all the web basics), i make roblox games and i know how to use blender 
+I make roblox games and I know how to use blender 
 
+I use rust, javascript, html css,,,,,,,,,,,,
