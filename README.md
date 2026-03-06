@@ -1,12 +1,13 @@
-## web, front, back, game development, ui design and more
+## web, front, back, game development and more
 
-I make roblox games and I know how to use blender 
+I make roblox games
 
-I use rust, javascript, html css, anything yay,,,,,,,,,,,
+I can use any programming laguage 0_0
 
 
-todo
+my todo list :
 
-(block verifieds) extension for x
+(superblock) extension for x
 plug-in for roblox 
+
 
