@@ -7,7 +7,9 @@ I can use any programming laguage 0_0
 
 my todo list :
 
-4th dimension
+worlds of stats (WORLD OF DOGS) 
+
+circuit(build a bot) 
 
 gripp OS
 
