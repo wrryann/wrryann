@@ -9,6 +9,8 @@ my todo list :
 
 worlds of stats (WORLD OF DOGS) 
 
+live chat (game/forum) 
+
 circuit(build a bot) 
 
 gripp OS
